@@ -1,38 +1,51 @@
-# Event Registration Web Application
+# EVENT REGISTRATION WEB APPLICATION
 
-## AIM:
+## AIM :
 To design, develop and deploy a web application for event registration.
 
-## DESIGN STEPS:
+## DESIGN STEPS :
 
-### Step 1:
+### STEP 1 :
 
+Create a new frame.
 
-### Step 2:
+### STEP 2 :
 
+Select any one preset size of your choice.
 
-### Step 3:
+### STEP 3 :
 
+Select the shapes you need.
 
-### Step 4:
+### STEP 4 :
 
+Import images as needed.
 
-### Step 5:
+### STEP 5 :
 
-### Step 6:
+Create pages based on your need and link them.
+
+### STEP 6 :
 
 Validate the HTML and CSS code.
 
-### Step 6:
+### STEP 7 :
 
 Publish the website in the given URL.
 
-## DESIGN:
 
-## PROGRAM :
+## DESIGNING TOOLS USED HERE :
 
-## OUTPUT:
+- Figma
+- Canva
+
+## OUTPUT :
+
+![Untitled design](https://user-images.githubusercontent.com/118054670/215130646-0bd55927-9d6a-402a-9e4d-dd631ee23c84.png)
 
 
-## Result:
+
+## RESULT :
+
+The program to design, develop and deploy a web application for event registration is completed successfully.
 
